@@ -1,1 +1,1 @@
-# Test error package from Discover Meteor Tutorial #
+Error package for Meteor
