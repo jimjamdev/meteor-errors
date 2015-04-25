@@ -1,0 +1,1 @@
+# Test error package from Discover Meteor Tutorial #
